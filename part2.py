@@ -37,5 +37,5 @@ def show_unique_pairs():
 
 # Run the packet capture and display unique pairs after completion
 if __name__ == "__main__":
-    capture_packets()  # Start capturing packets for the defined duration
-    show_unique_pairs()  # Display unique source-destination pairs
+    capture_packets()  
+    show_unique_pairs()  
