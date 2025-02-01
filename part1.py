@@ -44,5 +44,5 @@ def show_results():
 
 # Run the packet capture and display results after completion
 if __name__ == "__main__":
-    capture_packets()  # Start capturing packets for the defined duration
-    show_results()  # Display captured data and packet size statistics
+    capture_packets()  
+    show_results()  
